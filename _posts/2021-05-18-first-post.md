@@ -11,11 +11,10 @@ title: Random Post 1
 
 I might post this kind of article from time to time, whenever I feel like it. I thought it was cool how the place that I live could go from this
 
-![image_from_plane_dry](https://github.com/gaetgu/gaetgu.github.io/blob/gh-pages/img/banking_with_mesas_in_foreground.png?raw=true)
-
+<img src="https://github.com/gaetgu/gaetgu.github.io/blob/gh-pages/img/banking_with_mesas_in_foreground.png?raw=true" width="500"></img>
 to this
 
-![image_in_mountains_snowy](https://github.com/gaetgu/gaetgu.github.io/blob/gh-pages/img/from_hyde_towards_sandia.png?raw=true)
+<img src="https://github.com/gaetgu/gaetgu.github.io/blob/gh-pages/img/from_hyde_towards_sandia.png?raw=true" width="500"></img>
 
 in just a matter of days. 
 
